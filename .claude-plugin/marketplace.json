@@ -1,0 +1,15 @@
+{
+  "name": "quality-assurance-agents",
+  "owner": {
+    "name": "Daniel Klimuntowski (Archont Soft)",
+    "url": "https://github.com/danielpmichalski"
+  },
+  "description": "Test role agents based on the ISTQB® syllabi. Not affiliated with or endorsed by ISTQB®.",
+  "plugins": [
+    {
+      "name": "quality-assurance-agents",
+      "source": "./",
+      "description": "Nine test role agents based on the ISTQB® syllabi, sharing one ID scheme for end-to-end traceability."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "quality-assurance-agents",
+  "displayName": "Quality Assurance Agents",
+  "version": "0.1.0",
+  "description": "Nine test role agents (test analyst, acceptance, security, usability, performance, model-based, technical test analyst, test automation, reviewer) based on the ISTQB® syllabi, sharing one ID scheme for end-to-end traceability. Not affiliated with or endorsed by ISTQB®.",
+  "author": {
+    "name": "Daniel Klimuntowski (Archont Soft)",
+    "url": "https://github.com/danielpmichalski"
+  },
+  "homepage": "https://github.com/danielpmichalski/quality-assurance-agents",
+  "repository": "https://github.com/danielpmichalski/quality-assurance-agents",
+  "license": "MIT",
+  "keywords": [
+    "testing",
+    "quality-assurance",
+    "qa",
+    "istqb",
+    "test-design",
+    "test-analysis",
+    "traceability",
+    "acceptance-criteria",
+    "security-testing",
+    "performance-testing",
+    "usability-testing",
+    "model-based-testing",
+    "test-automation",
+    "code-coverage",
+    "review"
+  ]
+}
