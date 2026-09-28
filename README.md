@@ -1,3 +1,5 @@
+**BEWARE!** This hasn't been thoroughly verified as properly operational, so use at your own discretion and always verify results.
+
 # Quality Assurance Agents
 
 A [Claude Code](https://code.claude.com) plugin with nine **test role agents** whose methods
